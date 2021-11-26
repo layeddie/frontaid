@@ -1,2 +1,2 @@
 # frontaid
-Test Frontais CMS
+Test Frontaid CMS
